@@ -1,0 +1,24 @@
+/* This is where we put the selector statements to edit the index; select all body statements */
+
+body {
+  background-color: aqua;
+}
+
+p {
+  font-size: x-small;
+  color: beige;
+}
+
+p {
+  font-size: x-small;
+  color: beige;
+}
+
+.green {
+  color: green;
+}
+
+/* Looking for a elements inside class green */
+.green a { 
+  color: green;
+}
